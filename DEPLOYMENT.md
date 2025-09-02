@@ -79,6 +79,11 @@ Vercel is the easiest and fastest way to deploy your React portfolio.
    - Follow Vercel's DNS instructions
    - Usually involves adding CNAME records
 
+
+
+
+
+
 ## 🌐 Alternative: Deploy to Netlify
 
 ### Step 1: Build Your Project

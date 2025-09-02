@@ -333,7 +333,7 @@ function App() {
                 <div className="relative">
                   <img
                     src={selectedProject.images[currentImageIndex]}
-                    alt={`${selectedProject.title} - Image ${currentImageIndex + 1}`}
+                    alt={`${selectedProject.title} - ${currentImageIndex + 1}`}
                     className="w-full h-auto max-h-[70vh] object-contain rounded-lg"
                   />
                   
