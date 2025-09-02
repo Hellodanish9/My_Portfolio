@@ -403,10 +403,10 @@ function App() {
             <div className="flex items-center justify-between px-4 py-3 border-b border-white/10">
               <div className="font-semibold">Resume Preview</div>
               <button onClick={() => setIsResumeOpen(false)} className="text-gray-300 hover:text-white">✕</button>
-            </div>
+                </div>
             <div className="p-4 bg-black/30">
               <iframe title="resume" src="/resume.pdf" className="w-full h-[60vh] rounded"></iframe>
-            </div>
+                </div>
             <div className="flex items-center justify-between px-4 py-3 border-t border-white/10">
               <div className="text-sm text-gray-300">
                 Views: <span className="text-blue-400 font-semibold">{resumeViews}</span> · Downloads: <span className="text-blue-400 font-semibold">{resumeDownloads}</span>
