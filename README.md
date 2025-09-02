@@ -258,9 +258,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, feel free to reach out:
 
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: hellodanish97@gmail.com
+- GitHub: https://github.com/Hellodanish9
+- LinkedIn: https://www.linkedin.com/in/danish-khan-657502252/
 
 ---
 
